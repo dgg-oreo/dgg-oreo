@@ -1,5 +1,3 @@
-<img src="https://github.com/notKimu/notKimu/blob/main/kimu_github.png?raw=true" width="100%">
-
 Hi! I am Diego, a junior programmer that loves messing with tech stuff. Feel free to come along.
 
 ```toml
