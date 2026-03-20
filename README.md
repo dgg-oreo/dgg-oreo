@@ -1,4 +1,4 @@
-Hi! I am Diego, a junior programmer that loves messing with tech stuff. Feel free to come along.
+Always cookin'
 
 ```toml
 name = "Diego"
