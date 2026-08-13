@@ -7,7 +7,7 @@ Always cookin'
 name = "Diego"
 
 [self]
-age = 19
+age = 20
 locale = "es-ES"
 drink = "coffee"
 
@@ -16,7 +16,8 @@ fav = "Python"
 most_used = "JavaScript"
 
 [os]
-kernel = "linux"
+kernel = "Linux"
+flavor = "Fedora"
 ```
 
 ## Skills
