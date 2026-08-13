@@ -1,3 +1,6 @@
+<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/78f4afde-267f-4911-bcc2-c4610bdd7241" />
+
+
 Always cookin'
 
 ```toml
